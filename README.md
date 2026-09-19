@@ -26,9 +26,9 @@ What the design actually involves:
 
 The study has three broad kinds of material:
 
-Primary breast tumour samples — tissue taken during surgery before treatment. 
+1) Primary breast tumour samples — tissue taken during surgery before treatment. 
 These tumours are classified into the four subtypes of breast cancer: 41 samples of triple-negative (TN), 30 samples of HER2, 29 samples of Luminal A and 30 samples of Luminal B.
 
-11 Normal breast tissue samples — included so expression in cancerous tissue can be compared with non-cancerous breast tissue.
+2) 11 Normal breast tissue samples — included so expression in cancerous tissue can be compared with non-cancerous breast tissue.
 
-14 Breast cancer cell lines — cancer cells maintained and grown in the laboratory, included as another type of breast-cancer model.
+3) 14 Breast cancer cell lines — cancer cells maintained and grown in the laboratory, included as another type of breast-cancer model.
