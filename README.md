@@ -16,11 +16,11 @@ Dataset: GSE45827
 
 The analysis explores:
 
-gene-expression patterns across breast cancer subtypes
-dimensionality reduction using PCA
-subtype-associated gene-expression differences
-expression of biologically relevant breast cancer genes
-whether gene-expression profiles can be used to classify tumour subtype
+- gene-expression patterns across breast cancer subtypes
+- dimensionality reduction using PCA
+- subtype-associated gene-expression differences
+- expression of biologically relevant breast cancer genes
+- whether gene-expression profiles can be used to classify tumour subtype
 
 What the design actually involves:
 
