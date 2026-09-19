@@ -8,7 +8,7 @@ Analysis of breast cancer gene expression data to explore molecular subtypes usi
 
 <u>Objective</u>
 
-Breast cancer is a heterogeneous disease consisting of molecularly distinct subtypes with different biological characteristics.
+<u>jdfbhberf</u>Breast cancer is a heterogeneous disease consisting of molecularly distinct subtypes with different biological characteristics.
 
 This project investigates whether gene-expression profiles can distinguish breast cancer subtypes using publicly available transcriptomic data from the NCBI Gene Expression Omnibus (GEO).
 
