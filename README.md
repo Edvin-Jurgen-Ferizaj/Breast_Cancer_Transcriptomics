@@ -14,7 +14,7 @@ This project investigates whether gene-expression profiles can distinguish breas
 
 Dataset: GSE45827
 
-<u>The analysis explores:</u>
+<ins>The analysis explores:</ins>
 
 - gene-expression patterns across breast cancer subtypes
 - dimensionality reduction using PCA
