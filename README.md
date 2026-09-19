@@ -1,7 +1,6 @@
-# <ins> Breast_Cancer_Transcriptomics </ins>
-Analysis of breast cancer gene expression data to explore molecular subtypes using Python, PCA and differential expression analysis. Using the GSE45827 dataset from NCBI GEO. Obtained from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45827
-
 # <ins>Exploring Gene Expression Across Breast Cancer Molecular Subtypes</ins>
+
+Analysis of breast cancer gene expression data to explore molecular subtypes using Python, PCA and differential expression analysis. Using the GSE45827 dataset from NCBI GEO. Obtained from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45827
 
 <ins>Objective</ins>
 
