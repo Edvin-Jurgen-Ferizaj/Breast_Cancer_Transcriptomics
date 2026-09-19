@@ -1,14 +1,14 @@
-# Breast_Cancer_Transcriptomics
+# <ins> Breast_Cancer_Transcriptomics </ins>
 Analysis of breast cancer gene expression data to explore molecular subtypes using Python, PCA and differential expression analysis. Using the GSE45827 dataset from NCBI GEO. Obtained from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45827
 
 
-<u>Breast Cancer Transcriptomic Analysis</u>
+<ins>Breast Cancer Transcriptomic Analysis</ins>
 
-<Exploring Gene Expression Across Breast Cancer Molecular Subtypes>
+<ins>Exploring Gene Expression Across Breast Cancer Molecular Subtypes</ins>
 
-<u>Objective</u>
+<ins>Objective</ins>
 
-<u>jdfbhberf</u>Breast cancer is a heterogeneous disease consisting of molecularly distinct subtypes with different biological characteristics.
+Breast cancer is a heterogeneous disease consisting of molecularly distinct subtypes with different biological characteristics.
 
 This project investigates whether gene-expression profiles can distinguish breast cancer subtypes using publicly available transcriptomic data from the NCBI Gene Expression Omnibus (GEO).
 
@@ -22,9 +22,9 @@ Dataset: GSE45827
 - expression of biologically relevant breast cancer genes
 - whether gene-expression profiles can be used to classify tumour subtype
 
-<u>What the design actually involves:</u>
+<ins>What the design actually involves:</ins>
 
-<u>The study has three broad kinds of material:</u>
+<ins>The study has three broad kinds of material:</ins>
 
 1) Primary breast tumour samples — tissue taken during surgery before treatment. 
 These tumours are classified into the four subtypes of breast cancer: 41 samples of triple-negative (TN), 30 samples of HER2, 29 samples of Luminal A and 30 samples of Luminal B.
